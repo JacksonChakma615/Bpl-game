@@ -7,7 +7,7 @@
     "rating": "9.5/10",
     "bating_style": "Left-Handed Bat",
     "bowling_style": "Slow Left-Arm Orthodox",
-    "price": "BDT 80,00,000"
+    "price": "8000000"
   },
   {
     "player_image": "https://i.ibb.co.com/N2MdkF3d/Tamim-Iqbal.webp",
@@ -17,7 +17,7 @@
     "rating": "8.8/10",
     "bating_style": "Left-Handed Bat",
     "bowling_style": "N/A",
-    "price": "BDT 70,00,000"
+    "price": "7000000"
   },
   {
     "player_image": "https://i.ibb.co.com/4BtrkV0/Mustafizur-Rahman.webp",
@@ -27,7 +27,7 @@
     "rating": "8.7/10",
     "bating_style": "Left-Handed Bat",
     "bowling_style": "Left-Arm Fast-Medium",
-    "price": "BDT 50,00,000"
+    "price": "5000000"
   },
   {
     "player_image": "https://i.ibb.co.com/RpT11xt4/Mushfiqur-Rahim.webp",
@@ -37,7 +37,7 @@
     "rating": "8.5/10",
     "bating_style": "Right-Handed Bat",
     "bowling_style": "N/A",
-    "price": "BDT 80,00,000"
+    "price": "8000000"
   },
   {
     "player_image": "https://i.ibb.co.com/99M9VFDw/Taskin-Ahmed.webp",
@@ -47,7 +47,7 @@
     "rating": "8.4/10",
     "bating_style": "Left-Handed Bat",
     "bowling_style": "Right-Arm Fast",
-    "price": "BDT 50,00,000"
+    "price": "5000000"
   },
   {
     "player_image": "https://i.ibb.co.com/nSFpM6L/Andre-Russell.jpg",
@@ -57,7 +57,7 @@
     "rating": "9.0/10",
     "bating_style": "Right-Handed Bat",
     "bowling_style": "Right-Arm Fast",
-    "price": "USD 80,000"
+    "price": "80000"
   },
   {
     "player_image": "https://i.ibb.co.com/XfknBkv3/Sunil-Narine.jpg",
@@ -67,7 +67,7 @@
     "rating": "8.6/10",
     "bating_style": "Left-Handed Bat",
     "bowling_style": "Right-Arm Off Break",
-    "price": "USD 70,000"
+    "price": "70000"
   },
   {
     "player_image": "https://i.ibb.co.com/TqxVt07p/Babar-Azam.webp",
@@ -77,7 +77,7 @@
     "rating": "9.1/10",
     "bating_style": "Right-Handed Bat",
     "bowling_style": "N/A",
-    "price": "USD 75,000"
+    "price": "75000"
   },
   {
     "player_image": "https://i.ibb.co.com/KzhFzVGX/Litton-Das.webp",
@@ -87,7 +87,7 @@
     "rating": "8.3/10",
     "bating_style": "Right-Handed Bat",
     "bowling_style": "N/A",
-    "price": "BDT 60,00,000"
+    "price": "6000000"
   },
   {
     "player_image": "https://i.ibb.co.com/q3CGL7Dr/Najibullah-Zadran.jpg",
@@ -97,7 +97,7 @@
     "rating": "7.8/10",
     "bating_style": "Left-Handed Bat",
     "bowling_style": "Off Break",
-    "price": "USD 40,000"
+    "price": "40000"
   },
   {
     "player_image": "https://i.ibb.co.com/rRxYJbXq/Mehidy-Hasan-Miraz.webp",
@@ -107,7 +107,7 @@
     "rating": "8.0/10",
     "bating_style": "Right-Handed Bat",
     "bowling_style": "Right-Arm Off Break",
-    "price": "BDT 40,00,000"
+    "price": "4000000"
   },
   {
     "player_image": "https://i.ibb.co.com/8gG0W3by/Mohammad-Rizwan.webp",
@@ -117,6 +117,6 @@
     "rating": "8.9/10",
     "bating_style": "Right-Handed Bat",
     "bowling_style": "N/A",
-    "price": "USD 80,000"
+    "price": "80000"
   }
 ]

@@ -1,7 +1,9 @@
  import React from 'react';
  import userimg from "../../assets/Group.png";
 import userimg2 from "../../assets/Group-(2).png";
- const PlayerCard = ({player}) => {
+import { useState } from 'react';
+ const PlayerCard = ({player,setAvailableBlanace,AvailableBlanace,purchPlayers,SetpuchPlayers}) => {
+    const [isSelected,setisSelected]=useState(false)
     return (
         <div>
             <div className="card bg-base-100  shadow-sm p-4">
@@ -36,7 +38,10 @@ import userimg2 from "../../assets/Group-(2).png";
 
           <div className="card-actions mt-4 justify-between items-center">
             <p ><span className="font-bold">Price:</span> {player.price}</p>
-            <button className="btn">Choose Player</button>
+            <button disabled={isSelected} onClick={()=>{
+              setisSelected(true)
+              setAvailableBlanace(AvailableBlanace-player.price)
+            }} className="btn">{isSelected===true?"Selected":"Choose Player"}</button>
           </div>
         </div>
       </div>

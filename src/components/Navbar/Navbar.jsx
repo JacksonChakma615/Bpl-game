@@ -1,7 +1,7 @@
  import React from 'react';
  import navimg from "../../assets/logo.png";
 import dolerimg  from "../../assets/doler.png";
- const Navbar = () => {
+ const Navbar = ({AvailableBlanace}) => {
     return (
         <div>
              <div className="navbar max-w-[1100px] mx-auto ">
@@ -11,7 +11,7 @@ import dolerimg  from "../../assets/doler.png";
           </a>
         </div>
         <div className="flex items-center">
-          <span className="mr-1">60000000000</span>
+          <span className="mr-1">{AvailableBlanace}</span>
           <span className="mr-1">Coin</span>
           <img className="w-6 h-6" src={dolerimg} alt="" />
         </div> 
